@@ -1,0 +1,3 @@
+D:/Android/Kotlin/TextSender/app/.cxx/cmake/debug/x86_64/CMakeFiles/sqlcipherso.dir
+D:/Android/Kotlin/TextSender/app/.cxx/cmake/debug/x86_64/CMakeFiles/edit_cache.dir
+D:/Android/Kotlin/TextSender/app/.cxx/cmake/debug/x86_64/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,2 @@
+[1/2] Building CXX object CMakeFiles/sqlcipher.dir/src/main/cpp/Cipher.cpp.o
+[2/2] Linking CXX shared library ..\..\..\..\libs\armeabi-v7a\libsqlcipher.so

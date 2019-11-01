@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/text_item_tv"
+        android:layout_margin="5dp"
+        android:singleLine="false"
+        android:textSize="20sp"
+        android:gravity="start|center_vertical"
+        android:background="@drawable/chat_item_bg"
+        android:textColor="#335255"
+        android:fontFamily="sans-serif-condensed-medium"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+</LinearLayout>

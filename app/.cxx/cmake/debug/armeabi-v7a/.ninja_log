@@ -1,0 +1,10 @@
+# ninja log v5
+1	79	0	CMakeFiles/sqlcipher.dir/src/main/cpp/Cipher.cpp.o	cdd0091d61360465
+79	202	0	../../../../libs/armeabi-v7a/libsqlcipher.so	71f572ad16b83b4f
+1	74	0	CMakeFiles/sqlcipher.dir/src/main/cpp/Cipher.cpp.o	cdd0091d61360465
+74	155	0	../../../../libs/armeabi-v7a/libsqlcipher.so	71f572ad16b83b4f
+1	119	0	CMakeFiles/sqlcipherso.dir/src/main/cpp/Cipher.cpp.o	4d581a5af3743ea0
+119	216	0	../../../../libs/armeabi-v7a/libsqlcipherso.so	10268eb5d9f67809
+1	86	0	D:/Android/Kotlin/TextSender/libs/armeabi-v7a/libsqlcipherso.so	6c9dbbaf20def3e3
+0	73	0	CMakeFiles/sqlcipherso.dir/src/main/cpp/Cipher.cpp.o	4d581a5af3743ea0
+73	155	0	D:/Android/Kotlin/TextSender/libs/armeabi-v7a/libsqlcipherso.so	6c9dbbaf20def3e3

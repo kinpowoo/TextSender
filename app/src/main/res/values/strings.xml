@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TextSender</string>
+    <string name="title_receive">Receive</string>
+    <string name="title_send">Send</string>
+</resources>
